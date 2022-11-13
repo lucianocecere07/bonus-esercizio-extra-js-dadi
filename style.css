@@ -1,0 +1,16 @@
+#risultato {
+    font-size: 40px;
+    font-weight: bolder;
+    padding: 10px;
+    color: blue;
+}
+
+#utente {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#computer {
+    font-size: 20px;
+    font-weight: bolder;
+}
